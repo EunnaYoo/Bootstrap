@@ -1,0 +1,15 @@
+/* Html 순서에 맞게 작성 */
+.bg-black { /* 부트스트랩에서 지원하지 않는 컬러 설정 */
+    background: #20242a;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+}
+.jumbotron {
+    background: url(../img/carousel1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
